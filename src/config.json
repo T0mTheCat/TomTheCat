@@ -1,0 +1,21 @@
+{
+    "name":"Tom The Cat",
+    "description":"Philanthropic Felines",
+    "website":"https://www.tom-the-cat.vercel.app",
+    "twitter":"https://twitter.com/TomTheSeiCat",
+    "discord":"https://discord.gg/6n5mzNGy",
+    "rpc":"https://rpc.sei-apis.com",
+    "network":"pacific-1", 
+    "collection_address":"sei1ky74vm7pxczznakleqfj89pnhhyxnz5d75qkacwzq5tq4mecszfs6g5637", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
